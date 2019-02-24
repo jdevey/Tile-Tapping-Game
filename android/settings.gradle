@@ -1,0 +1,3 @@
+rootProject.name = 'DeveyJoelAssn3Android'
+
+include ':app'
